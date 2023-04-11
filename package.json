@@ -15,6 +15,8 @@
   "author": "Braulio Jaureguy",
   "license": "MIT",
   "dependencies": {
+    "@babel/plugin-transform-runtime": "^7.21.4",
+    "axios": "^1.3.5",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-router-dom": "^6.10.0"
